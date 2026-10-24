@@ -1,0 +1,3 @@
+molecule,E_elec (Eh),ZPE (kcal/mol),H (Eh),G (Eh),S (cal/mol·K),Cv (cal/mol·K),n imag,small imag,lowest ν (cm⁻¹),repaired
+paracetamol,-515.15083964,100.06,-514.98014067,-515.02844622,101.67,38.5,0,0,29.0,False
+aspirin,-648.26769751,98.84,-648.0976693,-648.14890154,107.83,42.8,0,0,28.1,False

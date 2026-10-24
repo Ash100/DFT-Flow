@@ -1,0 +1,4 @@
+name,smiles,charge,multiplicity
+paracetamol,CC(=O)Nc1ccc(O)cc1,0,1
+acetate_anion,CC(=O)[O-],-1,1
+quercetin,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,,

@@ -1,0 +1,22 @@
+{
+ "project": "DFTFlow_run1",
+ "preset": "Standard (publication)",
+ "opt_func": "B3LYP",
+ "opt_basis": "def2-SVP",
+ "sp_func": "B3LYP",
+ "sp_basis": "def2-TZVP",
+ "opt_disp": "D3(BJ)",
+ "sp_disp": "D3(BJ)",
+ "td_func": "CAM-B3LYP",
+ "td_nstates": 10,
+ "td_tda": false,
+ "solvent": "none",
+ "density_fitting": true,
+ "n_conformers": 30,
+ "xtb_top": 5,
+ "freq_scale": 1.0,
+ "temperature": 298.15,
+ "cube_points": 64,
+ "backend": "GPU (GPU4PySCF 1.9.0) on NVIDIA A100-SXM4-40GB, 42 GB",
+ "created": "2026-10-23T10:41:43"
+}

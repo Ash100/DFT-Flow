@@ -1,0 +1,32 @@
+[
+ {
+  "file": "/content/DFTFlow_run1/figures/01_input_structures.png",
+  "caption": "Input structures (2D depiction).",
+  "part": 3
+ },
+ {
+  "file": "/content/DFTFlow_run1/figures/02_validation_benchmark.png",
+  "caption": "Deviation of computed from experimental structural parameters and dipole moments (B3LYP-D3(BJ)/def2-SVP geometries; B3LYP-D3(BJ)/def2-TZVP dipoles); shaded band = tolerance.",
+  "part": 5
+ },
+ {
+  "file": "/content/DFTFlow_run1/figures/03_conformer_energies.png",
+  "caption": "Relative GFN2-xTB energies of refined conformers; marker area \u221d Boltzmann population, filled marker = conformer used for DFT.",
+  "part": 6
+ },
+ {
+  "file": "/content/DFTFlow_run1/figures/04_optimisation_convergence.png",
+  "caption": "Geometry optimisation convergence at B3LYP-D3(BJ)/def2-SVP.",
+  "part": 7
+ },
+ {
+  "file": "/content/DFTFlow_run1/figures/05_ir_spectra.png",
+  "caption": "Simulated IR spectra (B3LYP-D3(BJ)/def2-SVP, Lorentzian FWHM 20 cm\u207b\u00b9, scale 1.0).",
+  "part": 8
+ },
+ {
+  "file": "/content/DFTFlow_run1/figures/09_uv_vis_spectra.png",
+  "caption": "Simulated UV-Vis absorption spectra and oscillator strengths (CAM-B3LYP/def2-TZVP).",
+  "part": 12
+ }
+]

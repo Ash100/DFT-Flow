@@ -1,0 +1,3 @@
+molecule,E (Eh),cycles,converged,RMSD xTB→DFT (Å),time
+paracetamol,-515.15083964,27,True,0.222,40 s
+aspirin,-648.26769751,22,True,0.184,34 s
